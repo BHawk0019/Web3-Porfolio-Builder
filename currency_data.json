@@ -1,0 +1,467 @@
+[
+  {
+    "currency": "United States Dollar ($)",
+    "currency_code": "USD",
+    "coinmarketcap_id": 2781
+  },
+  {
+    "currency": "Albanian Lek (L)",
+    "currency_code": "ALL",
+    "coinmarketcap_id": 3526
+  },
+  {
+    "currency": "Algerian Dinar (د.ج)",
+    "currency_code": "DZD",
+    "coinmarketcap_id": 3537
+  },
+  {
+    "currency": "Argentine Peso ($)",
+    "currency_code": "ARS",
+    "coinmarketcap_id": 2821
+  },
+  {
+    "currency": "Armenian Dram (֏)",
+    "currency_code": "AMD",
+    "coinmarketcap_id": 3527
+  },
+  {
+    "currency": "Australian Dollar ($)",
+    "currency_code": "AUD",
+    "coinmarketcap_id": 2782
+  },
+  {
+    "currency": "Azerbaijani Manat (₼)",
+    "currency_code": "AZN",
+    "coinmarketcap_id": 3528
+  },
+  {
+    "currency": "Bahraini Dinar (.د.ب)",
+    "currency_code": "BHD",
+    "coinmarketcap_id": 3531
+  },
+  {
+    "currency": "Bangladeshi Taka (৳)",
+    "currency_code": "BDT",
+    "coinmarketcap_id": 3530
+  },
+  {
+    "currency": "Belarusian Ruble (Br)",
+    "currency_code": "BYN",
+    "coinmarketcap_id": 3533
+  },
+  {
+    "currency": "Bermudan Dollar ($)",
+    "currency_code": "BMD",
+    "coinmarketcap_id": 3532
+  },
+  {
+    "currency": "Bolivian Boliviano (Bs.)",
+    "currency_code": "BOB",
+    "coinmarketcap_id": 2832
+  },
+  {
+    "currency": "Bosnia-Herzegovina Convertible Mark (KM)",
+    "currency_code": "BAM",
+    "coinmarketcap_id": 3529
+  },
+  {
+    "currency": "Brazilian Real (R$)",
+    "currency_code": "BRL",
+    "coinmarketcap_id": 2783
+  },
+  {
+    "currency": "Bulgarian Lev (лв)",
+    "currency_code": "BGN",
+    "coinmarketcap_id": 2814
+  },
+  {
+    "currency": "Cambodian Riel (៛)",
+    "currency_code": "KHR",
+    "coinmarketcap_id": 3549
+  },
+  {
+    "currency": "Canadian Dollar ($)",
+    "currency_code": "CAD",
+    "coinmarketcap_id": 2784
+  },
+  {
+    "currency": "Chilean Peso ($)",
+    "currency_code": "CLP",
+    "coinmarketcap_id": 2786
+  },
+  {
+    "currency": "Chinese Yuan (¥)",
+    "currency_code": "CNY",
+    "coinmarketcap_id": 2787
+  },
+  {
+    "currency": "Colombian Peso ($)",
+    "currency_code": "COP",
+    "coinmarketcap_id": 2820
+  },
+  {
+    "currency": "Costa Rican Colón (₡)",
+    "currency_code": "CRC",
+    "coinmarketcap_id": 3534
+  },
+  {
+    "currency": "Croatian Kuna (kn)",
+    "currency_code": "HRK",
+    "coinmarketcap_id": 2815
+  },
+  {
+    "currency": "Cuban Peso ($)",
+    "currency_code": "CUP",
+    "coinmarketcap_id": 3535
+  },
+  {
+    "currency": "Czech Koruna (Kč)",
+    "currency_code": "CZK",
+    "coinmarketcap_id": 2788
+  },
+  {
+    "currency": "Danish Krone (kr)",
+    "currency_code": "DKK",
+    "coinmarketcap_id": 2789
+  },
+  {
+    "currency": "Dominican Peso ($)",
+    "currency_code": "DOP",
+    "coinmarketcap_id": 3536
+  },
+  {
+    "currency": "Egyptian Pound (£)",
+    "currency_code": "EGP",
+    "coinmarketcap_id": 3538
+  },
+  {
+    "currency": "Euro (€)",
+    "currency_code": "EUR",
+    "coinmarketcap_id": 2790
+  },
+  {
+    "currency": "Georgian Lari (₾)",
+    "currency_code": "GEL",
+    "coinmarketcap_id": 3539
+  },
+  {
+    "currency": "Ghanaian Cedi (₵)",
+    "currency_code": "GHS",
+    "coinmarketcap_id": 3540
+  },
+  {
+    "currency": "Guatemalan Quetzal (Q)",
+    "currency_code": "GTQ",
+    "coinmarketcap_id": 3541
+  },
+  {
+    "currency": "Honduran Lempira (L)",
+    "currency_code": "HNL",
+    "coinmarketcap_id": 3542
+  },
+  {
+    "currency": "Hong Kong Dollar ($)",
+    "currency_code": "HKD",
+    "coinmarketcap_id": 2792
+  },
+  {
+    "currency": "Hungarian Forint (Ft)",
+    "currency_code": "HUF",
+    "coinmarketcap_id": 2793
+  },
+  {
+    "currency": "Icelandic Króna (kr)",
+    "currency_code": "ISK",
+    "coinmarketcap_id": 2818
+  },
+  {
+    "currency": "Indian Rupee (₹)",
+    "currency_code": "INR",
+    "coinmarketcap_id": 2796
+  },
+  {
+    "currency": "Indonesian Rupiah (Rp)",
+    "currency_code": "IDR",
+    "coinmarketcap_id": 2794
+  },
+  {
+    "currency": "Iranian Rial (﷼)",
+    "currency_code": "IRR",
+    "coinmarketcap_id": 3544
+  },
+  {
+    "currency": "Iraqi Dinar (ع.د)",
+    "currency_code": "IQD",
+    "coinmarketcap_id": 3543
+  },
+  {
+    "currency": "Israeli New Shekel (₪)",
+    "currency_code": "ILS",
+    "coinmarketcap_id": 2795
+  },
+  {
+    "currency": "Jamaican Dollar ($)",
+    "currency_code": "JMD",
+    "coinmarketcap_id": 3545
+  },
+  {
+    "currency": "Japanese Yen (¥)",
+    "currency_code": "JPY",
+    "coinmarketcap_id": 2797
+  },
+  {
+    "currency": "Jordanian Dinar (د.ا)",
+    "currency_code": "JOD",
+    "coinmarketcap_id": 3546
+  },
+  {
+    "currency": "Kazakhstani Tenge (₸)",
+    "currency_code": "KZT",
+    "coinmarketcap_id": 3551
+  },
+  {
+    "currency": "Kenyan Shilling (Sh)",
+    "currency_code": "KES",
+    "coinmarketcap_id": 3547
+  },
+  {
+    "currency": "Kuwaiti Dinar (د.ك)",
+    "currency_code": "KWD",
+    "coinmarketcap_id": 3550
+  },
+  {
+    "currency": "Kyrgystani Som (с)",
+    "currency_code": "KGS",
+    "coinmarketcap_id": 3548
+  },
+  {
+    "currency": "Lebanese Pound (ل.ل)",
+    "currency_code": "LBP",
+    "coinmarketcap_id": 3552
+  },
+  {
+    "currency": "Macedonian Denar (ден)",
+    "currency_code": "MKD",
+    "coinmarketcap_id": 3556
+  },
+  {
+    "currency": "Malaysian Ringgit (RM)",
+    "currency_code": "MYR",
+    "coinmarketcap_id": 2800
+  },
+  {
+    "currency": "Mauritian Rupee (₨)",
+    "currency_code": "MUR",
+    "coinmarketcap_id": 2816
+  },
+  {
+    "currency": "Mexican Peso ($)",
+    "currency_code": "MXN",
+    "coinmarketcap_id": 2799
+  },
+  {
+    "currency": "Moldovan Leu (L)",
+    "currency_code": "MDL",
+    "coinmarketcap_id": 3555
+  },
+  {
+    "currency": "Mongolian Tugrik (₮)",
+    "currency_code": "MNT",
+    "coinmarketcap_id": 3558
+  },
+  {
+    "currency": "Moroccan Dirham (د.م.)",
+    "currency_code": "MAD",
+    "coinmarketcap_id": 3554
+  },
+  {
+    "currency": "Myanma Kyat (Ks)",
+    "currency_code": "MMK",
+    "coinmarketcap_id": 3557
+  },
+  {
+    "currency": "Namibian Dollar ($)",
+    "currency_code": "NAD",
+    "coinmarketcap_id": 3559
+  },
+  {
+    "currency": "Nepalese Rupee (₨)",
+    "currency_code": "NPR",
+    "coinmarketcap_id": 3561
+  },
+  {
+    "currency": "New Taiwan Dollar (NT$)",
+    "currency_code": "TWD",
+    "coinmarketcap_id": 2811
+  },
+  {
+    "currency": "New Zealand Dollar ($)",
+    "currency_code": "NZD",
+    "coinmarketcap_id": 2802
+  },
+  {
+    "currency": "Nicaraguan Córdoba (C$)",
+    "currency_code": "NIO",
+    "coinmarketcap_id": 3560
+  },
+  {
+    "currency": "Nigerian Naira (₦)",
+    "currency_code": "NGN",
+    "coinmarketcap_id": 2819
+  },
+  {
+    "currency": "Norwegian Krone (kr)",
+    "currency_code": "NOK",
+    "coinmarketcap_id": 2801
+  },
+  {
+    "currency": "Omani Rial (ر.ع.)",
+    "currency_code": "OMR",
+    "coinmarketcap_id": 3562
+  },
+  {
+    "currency": "Pakistani Rupee (₨)",
+    "currency_code": "PKR",
+    "coinmarketcap_id": 2804
+  },
+  {
+    "currency": "Panamanian Balboa (B/.)",
+    "currency_code": "PAB",
+    "coinmarketcap_id": 3563
+  },
+  {
+    "currency": "Peruvian Sol (S/.)",
+    "currency_code": "PEN",
+    "coinmarketcap_id": 2822
+  },
+  {
+    "currency": "Philippine Peso (₱)",
+    "currency_code": "PHP",
+    "coinmarketcap_id": 2803
+  },
+  {
+    "currency": "Polish Złoty (zł)",
+    "currency_code": "PLN",
+    "coinmarketcap_id": 2805
+  },
+  {
+    "currency": "Pound Sterling (£)",
+    "currency_code": "GBP",
+    "coinmarketcap_id": 2791
+  },
+  {
+    "currency": "Qatari Rial (ر.ق)",
+    "currency_code": "QAR",
+    "coinmarketcap_id": 3564
+  },
+  {
+    "currency": "Romanian Leu (lei)",
+    "currency_code": "RON",
+    "coinmarketcap_id": 2817
+  },
+  {
+    "currency": "Russian Ruble (₽)",
+    "currency_code": "RUB",
+    "coinmarketcap_id": 2806
+  },
+  {
+    "currency": "Saudi Riyal (ر.س)",
+    "currency_code": "SAR",
+    "coinmarketcap_id": 3566
+  },
+  {
+    "currency": "Serbian Dinar (дин.)",
+    "currency_code": "RSD",
+    "coinmarketcap_id": 3565
+  },
+  {
+    "currency": "Singapore Dollar (S$)",
+    "currency_code": "SGD",
+    "coinmarketcap_id": 2808
+  },
+  {
+    "currency": "South African Rand (R)",
+    "currency_code": "ZAR",
+    "coinmarketcap_id": 2812
+  },
+  {
+    "currency": "South Korean Won (₩)",
+    "currency_code": "KRW",
+    "coinmarketcap_id": 2798
+  },
+  {
+    "currency": "South Sudanese Pound (£)",
+    "currency_code": "SSP",
+    "coinmarketcap_id": 3567
+  },
+  {
+    "currency": "Sovereign Bolivar (Bs.)",
+    "currency_code": "VES",
+    "coinmarketcap_id": 3573
+  },
+  {
+    "currency": "Sri Lankan Rupee (Rs)",
+    "currency_code": "LKR",
+    "coinmarketcap_id": 3553
+  },
+  {
+    "currency": "Swedish Krona ( kr)",
+    "currency_code": "SEK",
+    "coinmarketcap_id": 2807
+  },
+  {
+    "currency": "Swiss Franc (Fr)",
+    "currency_code": "CHF",
+    "coinmarketcap_id": 2785
+  },
+  {
+    "currency": "Thai Baht (฿)",
+    "currency_code": "THB",
+    "coinmarketcap_id": 2809
+  },
+  {
+    "currency": "Trinidad and Tobago Dollar ($)",
+    "currency_code": "TTD",
+    "coinmarketcap_id": 3569
+  },
+  {
+    "currency": "Tunisian Dinar (د.ت)",
+    "currency_code": "TND",
+    "coinmarketcap_id": 3568
+  },
+  {
+    "currency": "Turkish Lira (₺)",
+    "currency_code": "TRY",
+    "coinmarketcap_id": 2810
+  },
+  {
+    "currency": "Ugandan Shilling (Sh)",
+    "currency_code": "UGX",
+    "coinmarketcap_id": 3570
+  },
+  {
+    "currency": "Ukrainian Hryvnia (₴)",
+    "currency_code": "UAH",
+    "coinmarketcap_id": 2824
+  },
+  {
+    "currency": "United Arab Emirates Dirham (د.إ)",
+    "currency_code": "AED",
+    "coinmarketcap_id": 2813
+  },
+  {
+    "currency": "Uruguayan Peso ($)",
+    "currency_code": "UYU",
+    "coinmarketcap_id": 3571
+  },
+  {
+    "currency": "Uzbekistan Som (so'm)",
+    "currency_code": "UZS",
+    "coinmarketcap_id": 3572
+  },
+  {
+    "currency": "Vietnamese Dong (₫)",
+    "currency_code": "VND",
+    "coinmarketcap_id": 2823
+  }
+]
